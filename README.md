@@ -1,0 +1,2 @@
+# resky
+Latihan
